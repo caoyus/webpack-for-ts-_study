@@ -4,4 +4,6 @@
 // import "./modifier";
 // import "./readonly_modifier";
 // import "./getter&setter";
-import "./static";
+// import "./static";
+// import "./abstractClass";
+import "./Function";
