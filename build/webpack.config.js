@@ -47,7 +47,7 @@ module.exports = {
     contentBase: "./dist",
     host: "localhost",
     stats: "errors-only", // 打包日志输出输出错误信息
-    port: 8081,
+    port: 3000,
     open: true,
   },
 };
