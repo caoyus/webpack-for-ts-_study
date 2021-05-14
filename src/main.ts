@@ -6,4 +6,6 @@
 // import "./getter&setter";
 // import "./static";
 // import "./abstractClass";
-import "./Function";
+// import "./Function";
+// import "./genericity";
+import "./statement_files";
