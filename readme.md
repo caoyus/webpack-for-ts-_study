@@ -12,7 +12,7 @@
 
 package.json
 
-```jsx
+```json
 {
   "name": "01-webpack-ts",
   "version": "1.0.0",
